@@ -1,7 +1,14 @@
-# Gordian
+  '''text
+  ___________     ___________   _____________   _____________   _____   __________    ______   _____
+ /  ______  \\   /  ______  \\  |  _______  \\  |  _______  \\  |  ||  /  ______  \\  |    \\  |  ||
+/  //     \__\\ /  //     \  \\ |  ||     \  \\ |  ||     \  \\ |  || /  //     \  \\ |     \\ |  ||
+|  || _________ |  ||     |  || |  ||_____/  // |  ||     |  || |  || |  ||_____|  || |  |\  \\|  ||
+|  || |____  || |  ||     |  || |  ____    _//  |  ||     |  || |  || |  ________  || |  ||\  \|  ||
+|  ||     |  || |  ||     |  || |  ||  \   \\   |  ||     |  || |  || |  ||     |  || |  || \     ||
+\  \\_____/  // \  \\_____/  // |  ||   \   \\  |  ||____ /  // |  || |  ||     |  || |  ||  \    ||
+ \ _________//   \__________//  |__||    \___|| |___________//  |__|| |__||     |__|| |__||   \___||'''
+
 Gordian is a C-based project that uses domain-knowledge to make sorting large datasets faster.
 
 ## License
-This project is licensed under the *GNU affero Public Licence*. See LICENSE.txt.
-# Gordian
-# Gordian
+This project is licensed under the **GNU affero Public Licence**. See LICENSE.txt.
