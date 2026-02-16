@@ -5,7 +5,7 @@
 
 enum domain;
 struct data;
-
-struct data gordianTimetoFrequecy(struct data data);
+struct data gordianTimeToFrequecy(struct data data);
+struct data gordianFrequencyToTime(struct data data);
 
 #endif

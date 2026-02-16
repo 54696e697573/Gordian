@@ -12,3 +12,10 @@ struct data {
     float maximum;
     enum domain domain;
 };
+
+struct data gordianTimeToFrequecy(struct data data) {
+    //
+}
+struct data gordianFrequencyToTime(struct data data) {
+    //
+}
