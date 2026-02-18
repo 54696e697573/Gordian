@@ -9,7 +9,7 @@
  \__________//   \__________//  (__((     \__(( (___________//  (__(( (__((     (__(( (__((   \___((
  ```
 
-Gordian is a C-based project that uses domain-knowledge to make sorting large datasets faster.
+**Gordian** is a _C_-based project that uses _domain-knowledge_ to make _sorting_ large datasets faster.
 
 **License**
-This project is licensed under the **GNU affero Public Licence**. See LICENSE.txt.
+This project is licensed under the **GNU affero Public Licence**. See **LICENSE.txt**.
