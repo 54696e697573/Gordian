@@ -48,6 +48,8 @@ void gordianFreeData(struct data * data);
 
 // Processing
 
+extern int G_POINTS_PER_BUCKET;
+
 int gordianTimeToFrequency(struct data * data, struct data * buffer);
 int gordianFrequencyToTime(struct data * data, struct data * buffer);
 

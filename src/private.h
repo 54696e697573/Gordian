@@ -33,7 +33,7 @@ void increment_void_pointer(void * pointer, enum datatype type, size_t index);
 
 // Processing
 
-extern int G_POINTS_PER_BUCKET;
+
 
 // Utility
 
