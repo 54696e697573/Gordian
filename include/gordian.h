@@ -52,3 +52,4 @@ int gordianTimeToFrequency(struct data * data, struct data * buffer);
 int gordianFrequencyToTime(struct data * data, struct data * buffer);
 
 #endif
+

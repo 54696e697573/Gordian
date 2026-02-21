@@ -16,22 +16,28 @@
 
 
 #include "gordian.h"
+#include <stddef.h>
+
+
 
 #ifndef PRIVATE_H
 #define PRIVATE_H
 
 // Storage
 
-const int G_DATATYPE_SIZE[7] = {
-    sizeof(short),
-    sizeof(int),
-    sizeof(long),
-    sizeof(float),
-    sizeof(double)
-};
+extern const int DATATYPE_SIZE[];
+
+double index_void_pointer_double(void * pointer, enum datatype type, size_t index);
+long index_void_pointer_long(void * pointer, enum datatype type, size_t index);
+void increment_void_pointer(void * pointer, enum datatype type, size_t index);
 
 // Processing
 
 extern int G_POINTS_PER_BUCKET;
 
+// Utility
+
+long clamp_long(long value, long min, long max);
+
 #endif
+
